@@ -19,6 +19,8 @@ public class Mavenproject1 {
         
         System.out.println("rezultat " + i+i);
         
+        System.out.println("Proba 3");
+        
             
     }
 }
