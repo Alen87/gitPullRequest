@@ -15,6 +15,10 @@ public class Mavenproject1 {
         System.out.println("Hello World!");
         System.out.println("Bok");
         
+        int i = 1;
+        
+        System.out.println("rezultat " + i+i);
+        
             
     }
 }
